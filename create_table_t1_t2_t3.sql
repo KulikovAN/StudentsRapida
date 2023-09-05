@@ -2,6 +2,7 @@
 --http://www.k-press.ru/cs/2009/3/join/join.asp#ID0EHLAC
 ===============================
 --создание и заполнение таблиц
+--sozdanie tabliz
 ===============================
 /*
 DROP TABLE Table1 ;
